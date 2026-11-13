@@ -31,7 +31,7 @@ The production product uses Next.js, React, TypeScript and Tailwind CSS for its 
 | --- | --- |
 | `src/preview-scale.mjs` | Fit-to-width/page calculations, input validation and bounded zoom |
 | `src/document-filename.mjs` | Unicode-aware filename normalization and portable filename boundaries |
-| `examples/demo.mjs  | Small, synthetic usage examples |
+| `examples/demo.mjs` | Small, synthetic usage examples |
 | `test/*.test.mjs` | Boundary cases for both utilities |
 
 ```text
