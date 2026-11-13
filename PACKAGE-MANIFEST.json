@@ -1,0 +1,48 @@
+{
+  "project": "CVNoble",
+  "variant": "public-limited-showcase",
+  "owner": "Md. Junayet Hossai Mohit",
+  "snapshotDate": "2026-11-13",
+  "files": [
+    {
+      "path": ".gitignore",
+      "bytes": 82,
+      "sha256": "6aa43f4f83779522fab2a325287afae313aa25f32c36dcab83e893e3546ee05a"
+    },
+    {
+      "path": "README.md",
+      "bytes": 4309,
+      "sha256": "f72d71d18fcfbcab903c34a56cf5e2d4c519cac002033b87498ec38b1f9ef3b1"
+    },
+    {
+      "path": "examples/demo.mjs",
+      "bytes": 501,
+      "sha256": "bf24f60529163e8da3315033eccfef62ce26fa40d02578db37d038ee23921f97"
+    },
+    {
+      "path": "package.json",
+      "bytes": 400,
+      "sha256": "4995d137f9349afffa6196da4114e0b5db8536351392eae67126e624a722c58c"
+    },
+    {
+      "path": "src/document-filename.mjs",
+      "bytes": 1041,
+      "sha256": "58cd1de9333bb5a70987a0cae93da82763572558aaf7825b77e8e3289461a85e"
+    },
+    {
+      "path": "src/preview-scale.mjs",
+      "bytes": 1157,
+      "sha256": "dfe7fc8fbdcb7b00e9e3ff69d17d9a8956e738e376d2501c0a44aba5c584892f"
+    },
+    {
+      "path": "test/document-filename.test.mjs",
+      "bytes": 1552,
+      "sha256": "3e8e356725f650cf38cbf0148ea95d7af7830c7fab6e2df30a12917fb562ba5b"
+    },
+    {
+      "path": "test/preview-scale.test.mjs",
+      "bytes": 1394,
+      "sha256": "a77d24e691a8a6aa91a2f6dc1b18147189ed97dc1cf377fe545dfb6e07185944"
+    }
+  ]
+}
